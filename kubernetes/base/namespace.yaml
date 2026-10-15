@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: lab-workloads
   labels:
-    app.kubernetes.io/part-of: multi-cloud-kubernetes-lab
+    app.kubernetes.io/part-of: azure-kubernetes-lab
