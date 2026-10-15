@@ -1,3 +1,5 @@
+tenant_id          = "replace-with-tenant-id"
+subscription_id    = "replace-with-lab-subscription-id"
 azure_location     = "eastus"
 project_name       = "kubernetes-lab"
 kubernetes_version = "1.33"
